@@ -5,15 +5,21 @@ This is a simple web application that allows users to check whether a given text
 ## Features
 
 **Palindrome Checking:** Users can enter text into the input field and click the "Check" button to determine whether it is a palindrome or not.
+
 **Input Validation:** The application validates input to ensure that the user has entered a non-empty value before performing the palindrome check.
+
 **Visual Feedback:** The application provides visual feedback to users through animations when interacting with the input field and check button.
+
 **Explanation:** An introduction section provides information about what a palindrome is, helping users understand the purpose of the application.
 
 ### Technologies Used
 
 **HTML:** The structure of the web page is defined using HTML.
+
 **CSS:** Styling and layout are implemented using CSS, providing a visually appealing interface.
+
 **JavaScript:** Functionality such as palindrome checking and user interaction is implemented using JavaScript.
+
 **GSAP (GreenSock Animation Platform):** Used for animation effects to enhance user experience.
 
 ## Usage
@@ -33,7 +39,7 @@ Clone this repository to your local machine.
 Make changes or add new features as needed.
 Test your changes thoroughly.
 Submit a pull request describing your changes for review.
- 
+
 ### Credits
 
 This project uses the GSAP (GreenSock Animation Platform) library for animation effects.
